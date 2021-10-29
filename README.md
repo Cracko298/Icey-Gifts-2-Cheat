@@ -1,5 +1,7 @@
 # Icey-Gifts-2-Cheat
-A basic save edit cheat as always. This is my last cheat for coolmathgames.
+A basic save edit cheat as always. This is my last cheat for https://www.coolmathgames.com/
+
+The application is located in *coolmath-games_save01* not *coolmathgames_cache0save*
 
 Features:
 
