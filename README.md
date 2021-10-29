@@ -7,3 +7,9 @@ Features:
 - Infinite Coins
 - All Powerups Max
 - Last Stage Unlocked
+
+Code Written by: Phinehas Beresford (Crako)
+
+My Github: https://github.com/Cracko298
+
+Have fun ;)
